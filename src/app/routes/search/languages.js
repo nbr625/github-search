@@ -1,0 +1,31 @@
+const languages = [
+  { label: '', value: '' },
+  { label: 'Arduino', value: 'arduino' },
+  { label: 'C', value: 'c' },
+  { label: 'C#', value: 'c#' },
+  { label: 'C++', value: 'c++' },
+  { label: 'Clojure', value: 'clojure' },
+  { label: 'CoffeeScript', value: 'coffeescript' },
+  { label: 'CSS', value: 'css' },
+  { label: 'Go', value: 'go' },
+  { label: 'Groovy', value: 'groovy' },
+  { label: 'Haskell', value: 'haskell' },
+  { label: 'Java' , value: 'java' },
+  { label: 'JavaScript', value: 'javascript' },
+  { label: 'Objective-C', value: 'objective-c' },
+  { label: 'Emacs Lisp', value: 'lisp'},
+  { label: 'LUA', value: 'lua' },
+  { label: 'Makefile', value: 'makefile' },
+  { label: 'Matlab', value: 'matlab' },
+  { label: 'Perl', value: 'perl' },
+  { label: 'PHP', value: 'php' },
+  { label: 'PowerShell', value: 'powershell'},
+  { label: 'Puppet', value: 'puppet' },
+  { label: 'Python', value: 'python' },
+  { label: 'Ruby', value: 'ruby' },
+  { label: 'Scala', value: 'scala' },
+  { label: 'Shell', value: 'shell'},
+  { label: 'Swift', value: 'swift'}
+]
+
+export default languages
